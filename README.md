@@ -1,0 +1,1 @@
+This repository contains a Perl code example demonstrating an issue with comparing undefined values using the 'eq' operator. The 'bug.pl' file shows the incorrect approach, while 'bugSolution.pl' provides the corrected version using defined().
